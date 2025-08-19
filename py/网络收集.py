@@ -33,7 +33,7 @@ urls = [
        'http://wp.wadg.pro/down.php/c7a364c3b23d0b7d3b01e9e731414efc.txt',
        'https://live.catvod.com/catvod_com.php',
        'https://cnb.cool/junchao.tang/live/-/git/raw/main/全球通.py',
-       '',
+       'https://d.kstore.dev/download/15114/TVSolo.txt',
        '',
        '',
        '',
