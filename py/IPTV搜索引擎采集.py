@@ -63,7 +63,7 @@ def get_tonkiang(keyword):
     }
     try:
         resp = requests.post(
-            "http://tonkiang.us/hoteliptv.php",
+            "https://tonkiang.us/hoteliptv2025.php",
             headers=header,
             data=data,
             timeout=10
