@@ -1,13 +1,12 @@
-2025/09/13 09:36更新,#genre#
+2025/09/15 09:55更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 AXN,https://live.tvfix.org/live/axn/index.m3u8
-TVBJ2,https://live.tvfix.org/live/tvbplus/index.m3u8
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
-凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
-凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
 美亚电影,https://live.tvfix.org/live/mydy/index.m3u8
+天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
+无线明珠,https://live.tvfix.org/live/pearl/index.m3u8
 无线新闻,https://live.tvfix.org/live/inews/index.m3u8
 
 港澳B组,#genre#
@@ -71,6 +70,7 @@ TVBJ2,https://smt.1789.dpdns.org/smt3.2.1.php?id=j2_twn
 翡翠台,https://smt.1789.dpdns.org/smt3.2.1.php?id=Wlt
 美亚台湾,https://smt.1789.dpdns.org/smt3.2.1.php?id=meiyamovie_twn
 天映,https://smt.1789.dpdns.org/smt3.2.1.php?id=Celestial
+天映经典,https://smt.1789.dpdns.org/smt3.2.1.php?id=Celestial2
 无线翡翠,https://smt.1789.dpdns.org/smt3.2.1.php?id=jade_twn
 无线明珠,https://smt.1789.dpdns.org/smt3.2.1.php?id=pearl_twn
 无线新闻,https://smt.1789.dpdns.org/smt3.2.1.php?id=inews_twn
@@ -93,16 +93,13 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 港澳G组,#genre#
 阿汤哥的影迷,http://iptv.jxpan.vip:18888/aio/huya/21059585
-爱星影视,http://iptv.jxpan.vip:18888/aio/douyu/9476806
+电影迷小雅,http://iptv.jxpan.vip:18888/aio/douyu/9639225
 芳芳说故事,http://iptv.jxpan.vip:18888/aio/douyu/9401905
 开箱嘤嘤怪,http://iptv.jxpan.vip:18888/aio/douyu/10319056
-鲨手不太冷的影迷,http://iptv.jxpan.vip:18888/aio/huya/21059586
 中华小当家,http://iptv.jxpan.vip:18888/aio/huya/11342413
 
 港澳H组,#genre#
 华剧台,https://s2-10623-kwimgs.52520.xyz/histar.php?key=e7613508260c3c3d8d25b90c55a923bf&id=golden-chinese-drama
 龙华电影台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn03
 龙华经典台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn21
-龙华偶像,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn12
-龙华戏剧台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn18
 
