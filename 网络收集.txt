@@ -1,17 +1,14 @@
-2025/09/25 09:49更新,#genre#
+2025/09/27 09:45更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
