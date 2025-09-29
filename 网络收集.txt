@@ -1,14 +1,17 @@
-2025/09/27 09:45更新,#genre#
+2025/09/29 09:51更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
@@ -74,7 +77,6 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立新闻台,https://www.youtube.com/watch?v=FoBfXvlOR6I
-台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 中视新闻台,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
