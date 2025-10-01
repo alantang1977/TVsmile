@@ -1,4 +1,4 @@
-2025/09/29 09:51更新,#genre#
+2025/10/01 09:57更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
@@ -77,6 +77,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立新闻台,https://www.youtube.com/watch?v=FoBfXvlOR6I
+台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 中视新闻台,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
