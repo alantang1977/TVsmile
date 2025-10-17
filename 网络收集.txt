@@ -1,10 +1,11 @@
-2025/10/15 09:51更新,#genre#
+2025/10/17 09:49更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
@@ -12,7 +13,6 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影台,http://php.jdshipin.com/smt.php?id=meiyamovie_twn
 天映,http://php.jdshipin.com/smt.php?id=Celestial
@@ -28,6 +28,7 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB星河国语,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
@@ -35,7 +36,6 @@ TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影国,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 无线Plus台,http://php.jdshipin.com:8880/smt.php?id=j2_twn
@@ -46,14 +46,6 @@ TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 港澳C组,#genre#
-TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-美亚电影,http://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
-天映,http://cdn9.163189.xyz/smt1.1.php?id=Celestial
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-
-港澳D组,#genre#
 TVBJ2,https://smt.1789.dpdns.org/smt3.2.1.php?id=j2_twn
 翡翠台,https://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbjade
 翡翠台,https://smt.1789.dpdns.org/smt3.2.1.php?id=Wlt
@@ -65,7 +57,7 @@ TVBJ2,https://smt.1789.dpdns.org/smt3.2.1.php?id=j2_twn
 无线新闻,https://smt.1789.dpdns.org/smt3.2.1.php?id=inews_twn
 无线星河,https://smt.1789.dpdns.org/smt3.2.1.php?id=Xinhe
 
-港澳E组,#genre#
+港澳D组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
@@ -79,4 +71,11 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中视新闻台,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+
+港澳E组,#genre#
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+美亚电影,http://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
+天映,http://cdn9.163189.xyz/smt1.1.php?id=Celestial
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 
