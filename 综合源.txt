@@ -1066,12 +1066,3 @@ RTMP频道EXO解码,#genre#
 长宁[1080p],rtmp://cnpull.sccnfb.com/live/123456
 漳州[720p],rtmp://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175
 达川生活[1080p],rtmp://tv.drs.dzxw.net/channellive/ggpd-dz2
-央视频道,#genre#
-CCTV-4K 4K,http://idc.zymok.cn:10000/rtp/239.77.0.194:5146
-CCTV-4K 4K50p,http://idc.zymok.cn:10000/rtp/239.77.0.174:5146
-CCTV-16 4K,http://idc.zymok.cn:10000/rtp/239.77.1.98:5146
-广东综艺 4K,http://idc.zymok.cn:10000/rtp/239.77.1.237:5146
-广东综艺 4K50p,http://idc.zymok.cn:10000/rtp/239.77.1.236:5146
-广东综艺(4k),http://idc.zymok.cn:10000/rtp/239.77.0.244:5146
-广东综艺4k,http://idc.zymok.cn:10000/rtp/239.77.0.252:5146
-南国都市 4K,http://idc.zymok.cn:10000/rtp/239.253.43.99:5146
