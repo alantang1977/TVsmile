@@ -1,4 +1,4 @@
-2026/06/21 12:45更新,#genre#
+2026/06/23 11:58更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB翡翠,http://r.jdshipin.com/62WM7
@@ -48,35 +48,6 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 
 港澳E组,#genre#
-TVBS欢乐台,https://4gtv.158.qzz.io/163189/1e0bdf17-436e-40d9-b442-ca3e2bf3d1db/
-TVBS精采台,https://4gtv.158.qzz.io/163189/acd6cbf9-8405-49c0-bf37-f7c620ccc391/
-大爱电视,https://4gtv.158.qzz.io/163189/36587122-152c-451b-9d6b-83a856574489/
-东森财经新闻台,https://4gtv.158.qzz.io/163189/15801af6-42b5-47b0-9c68-908ce9d1ae29/
-华视,https://4gtv.158.qzz.io/163189/b6656a22-9521-40ee-85d5-d4bee1560858/
-华视新闻,https://4gtv.158.qzz.io/163189/5570e8fd-69cc-43ad-8de6-e1ac63895bd4/
-寰宇新闻台湾台,https://4gtv.158.qzz.io/163189/ca41743f-7a1b-4040-872a-bc8c26229a4f/
-靖天日本台,https://4gtv.158.qzz.io/163189/9f56958f-4a50-4fc6-9407-a7e8b23a34e0/
-民视第一台,https://4gtv.158.qzz.io/163189/4e693d45-7ab4-4894-a983-fb494ad9a0f7/
-民视第一台,https://4gtv.158.qzz.io/163189/57170774-ef9b-4091-94fb-55f6faf13691/
-民视旅游台,https://4gtv.158.qzz.io/163189/d1b273d2-cec3-4526-aadf-aefcea29787f/
-民视台湾台,https://4gtv.158.qzz.io/163189/73c6ffb5-cddd-4b68-bf4b-7083fd5c08d3/
-民视新闻台,https://4gtv.158.qzz.io/163189/ca241422-9067-424c-bbd7-9aab4a6a39b0/
-民视影剧台,https://4gtv.158.qzz.io/163189/1bdede17-7384-47ca-9474-67137cd4f62c/
-民视综艺台,https://4gtv.158.qzz.io/163189/41a2c075-fa1f-43b5-acfd-ea3be3f317db/
-三立综合台,https://4gtv.158.qzz.io/163189/3d610e6d-aa4f-48bf-8516-eb823977d10f/
-中视,https://4gtv.158.qzz.io/163189/430fbb09-b79e-42ca-9cf4-b67f83b4eaf6/
-中视新闻,https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/
-猪哥亮歌厅秀,https://4gtv.158.qzz.io/163189/b0f042ad-8b42-4a86-b8ab-266988e66c93/
-
-港澳F组,#genre#
-TVBS新闻,https://4g.158.qzz.io/163189/351e8567ea4a6f99
-TVBS,https://4g.158.qzz.io/163189/1bcf344d4a0ea28c
-东森新闻台,https://4g.158.qzz.io/163189/d7e9f69dcbba2a23
-寰宇新闻台,https://4g.158.qzz.io/163189/404c15e617dc9581
-民视,https://4g.158.qzz.io/163189/0294790909bc9b0e
-中天新闻台,https://4g.158.qzz.io/163189/60f5c767b807519a
-
-港澳G组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
@@ -91,7 +62,15 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 
-港澳H组,#genre#
+港澳F组,#genre#
+TVBS,http://www.kaniptv.cn/ua3.php?etoken=VqLDLkoBv7TERSm%2BTGfvw9m7XGaHgvqtttkPaeGIH30BXegbslsl9TO8o8nGFvlGM98fCfeAFMjCcSroIUxfSTIdWwPEl6vkoNzHEf%2BOYVE1x5DcEsk64C1uFB6TYWX9AaoSTYjFYy0t%2Fq66D9Q7WF2RG7VCkSd5siJKsaAuNmDphfnbWwd4vFfOI%2BVqWlm7yCoa7391xQEZn3417Yns0CgrZqzKjjUgRBqexu28klaKQCt63jetIlhASvpJFHqRrMIbB29Ajz%2Fd5W77DDciYg%3D%3D
+东森新闻,http://www.kaniptv.cn/ua3.php?etoken=M3bXKPrUKq6fZFsWiQr4zk1c%2FZcYMkMILIzjjmL2xJl9En31oX0kiMvvmqFQO3IZN9RkKZaJoDc%2FQB5Gg6O91CXrYRgu7gYSCmJUf8PMbcc6BQPCjcCLijiIow%2FfXU%2FZ3Lq1o1yx%2BkxUNoGcEnw2ki3K0TJzlvie%2FCQd6UWGb2kw9L7lhvfFLu3JkRzSh1dlsJudoYrpPz7jcGwdTH%2FD5FFGcrhSt1P6x6d%2B2u40jZFR4fyPwQNy7upWMaI%2FY0BKdhM1GhuIuttJR7hKsMkmuQ%3D%3D
+翡翠台MY,http://www.kaniptv.cn/ua3.php?etoken=p0NoyYul1UYrxt0p2LZ66uCK%2FUJLzVAxUWQ1tJLfAeXA%2FZjTXNSjNenpssMWPnvH8WYiI6vk08GIqr7stis2HI7wUS5F1yooa9O%2Bxic7op532zuwCOlEQqo%2F%2FpZT8f8tXWF419n3milAXrfEtVhodh1VfFWG34%2FYgqBUpDithPb2HOk3LvPr2F8sQNHh7xzRnWYakNeDCjiBfxi2SiUwGmVv5J9McGcAd24wCWjF1ZOQLLgXW2R%2Fdt4QWkasKIk1mf%2F%2Fhbrmhjot1djFwHSBWA%3D%3D
+国天映电影,http://www.kaniptv.cn/ua3.php?etoken=wT8O0%2FFVRFxLJet7gJN9EIkeAvNhU5fOO9lsS3UlGmdPkxOkomkizfH5f4h%2FRISkmm52I%2FicNTtBcuxDSAZRPuav1bAbw2bHpEimsUHBHeZI9RpFX6tAF5M%2BwRaLfknD41Dn5LcciUMRMleMjtch2fuTlWka%2BvR6mveqL9WqFK2617x%2BMkaWD5L8usbQjliTcQvyO7mCFn0ovOmVn4nzieVJ9K08DltDn1Q7V6OAvbxxGm912toqHvM4JjqEs4yuPCaJgMzpJYrikFyseS9Gng%3D%3D
+天映经典,http://www.kaniptv.cn/ua3.php?etoken=hqcDFIt%2FlXdlTCi2euPaMLx%2BwrIg%2BpPHmJVaLLMHZIyFOwvmC8DrzZo%2BRozVoVfLOTaqdo3iVuW9flwdqRh%2FmQzfIA9cR%2F2%2BT3vh8ztTMCEcbBgcAxYFRI%2FN%2BlGuzoT%2FfRiyFLuqGFqSZKVgrYAVDBbyQl77nZu8y2BVAj6dBh1tYUFI8129YBnKn1cVUUKIOCl8IbNvEBOJCXu66KP4nt63jI3QfiFfiMc6SS7VFE%2Fny0xp74ft0JrgWV2WNbN9G%2BAjLLwgua4dSuCd4%2Fiv2Q%3D%3D
+纬来戏剧,http://www.kaniptv.cn/ua3.php?etoken=DHhfuKjEj4Wmw3mSxcPToGaA5jsKckeqazoHWg3mrJ6Q2P3awcu0fL6CHeuANmhnu2r4Kia2yiQs99LJMxde0BMC8fXd1NVUAQOKb6nDwJh%2FTxIxcTdE%2FXM%2FteHwF%2FR5EXy27Vw4r6fHqoim0W%2BdYTsEEi4ENVsjg%2F3DRXFRJI9A0hxFVNoyPG7HZYDGULk%2B3MTx22QiZ%2FKs%2BwBZf0SLV6BsbeaWax%2BUDQCuWFn36BuYdIOhRd4dngDhL%2FlC9KOxc6W%2Bpm8%2BoqvJ3GWXf3kvcw%3D%3D
+
+港澳G组,#genre#
 爱情片-戏剧性的一夜,https://hd.ijycnd.com/play/6dBBrrWd/index.m3u8
 动画片-蝙蝠侠：红影迷踪,https://hd.ijycnd.com/play/zbqxpl0a/index.m3u8
 动作片-中天,https://hd.ijycnd.com/play/Le3KwAe6/index.m3u8
@@ -107,7 +86,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 喜剧片-无线电时代,https://hd.ijycnd.com/play/Le3Qy7xb/index.m3u8
 喜剧片-戏剧训练营,https://hd.ijycnd.com/play/6dBj2mkd/index.m3u8
 
-港澳I组,#genre#
+港澳H组,#genre#
 八大精彩4Gtv,http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
 八大精彩4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv034/index.m3u8?proxy=true
 八大综艺4Gtv,http://220.135.64.124:5050/4gtv-4gtv039/index.m3u8?proxy=true
@@ -122,17 +101,16 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森购叁4Gtv,http://220.135.64.124:5050/4gtv-live048/index.m3u8?proxy=true
 东森购壹4Gtv,http://220.135.64.124:5050/4gtv-4gtv102/index.m3u8?proxy=true
 东森购壹4Gtv,http://220.135.64.124:5050/4gtv-live047/index.m3u8?proxy=true
-东森购壹4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv102/index.m3u8?proxy=true
 东森新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
 东森新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv152/index.m3u8?proxy=true
 公视戏剧4Gtv,http://220.135.64.124:5050/4gtv-4gtv042/index.m3u8?proxy=true
 公视戏剧4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv042/index.m3u8?proxy=true
 华视闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
 华视闽南4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
+华视闽南4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 华视新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
 寰宇财经4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv158/index.m3u8?proxy=true
-寰宇财经4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
 寰宇闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv156/index.m3u8?proxy=true
 寰宇闽南4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv156/index.m3u8?proxy=true
 寰宇闽南4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
@@ -189,7 +167,6 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立新闻4Gtv,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
 三立综合4Gtv,http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
 数位电影4Gtv,http://220.135.64.124:5050/4gtv-4gtv011/index.m3u8?proxy=true
-台视财经4Gtv,http://220.135.64.124:5050/4gtv-4gtv056/index.m3u8?proxy=true
 台视闽南4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
 台视新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
 影迷纪实4Gtv,http://220.135.64.124:5050/li-litv-ftv15/index.m3u8?proxy=true
@@ -207,11 +184,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 猪哥亮厅4Gtv,http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
-港澳J组,#genre#
-凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-港澳K组,#genre#
+港澳I组,#genre#
 公视,http://74.91.26.218:82/live/pts.m3u8
 公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
 华视,http://74.91.26.218:82/live/cts.m3u8
