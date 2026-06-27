@@ -1,4 +1,4 @@
-2026/06/25 11:58更新,#genre#
+2026/06/27 11:48更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB翡翠,http://r.jdshipin.com/62WM7
@@ -83,11 +83,13 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 八大综艺4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv039/index.m3u8?proxy=true
 采昌影剧4Gtv,http://220.135.64.124:5050/4gtv-4gtv049/index.m3u8?proxy=true
 采昌影剧4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv049/index.m3u8?proxy=true
+大爱贰高4Gtv,http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
+大爱壹高4Gtv,http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
 东森财经4Gtv,http://220.135.64.124:5050/4gtv-4gtv153/index.m3u8?proxy=true
 东森财经4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv153/index.m3u8?proxy=true
 东森购贰4Gtv,http://220.135.64.124:5050/4gtv-4gtv103/index.m3u8?proxy=true
-东森购贰4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv103/index.m3u8?proxy=true
 东森购叁4Gtv,http://220.135.64.124:5050/4gtv-live048/index.m3u8?proxy=true
+东森购壹4Gtv,http://220.135.64.124:5050/4gtv-4gtv102/index.m3u8?proxy=true
 东森购壹4Gtv,http://220.135.64.124:5050/4gtv-live047/index.m3u8?proxy=true
 东森新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
 东森新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv152/index.m3u8?proxy=true
@@ -95,12 +97,13 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 公视戏剧4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv042/index.m3u8?proxy=true
 华视闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
 华视闽南4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
+华视闽南4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 华视新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
 寰宇财经4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv158/index.m3u8?proxy=true
-寰宇财经4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
 寰宇闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv156/index.m3u8?proxy=true
 寰宇闽南4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇闽南4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
 寰宇新闻4Gtv,http://220.135.64.124:5050/li-litv-longturn14/index.m3u8?proxy=true
 寰宇新闻4Gtv,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
 寰宇新闻4Gtv,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
@@ -136,7 +139,6 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 龙华戏剧4Gtv,http://220.135.64.124:5050/li-litv-longturn18/index.m3u8?proxy=true
 龙华洋片4Gtv,http://220.135.64.124:5050/li-litv-longturn02/index.m3u8?proxy=true
 闽南戏剧4Gtv,http://220.135.64.124:5050/li-litv-longturn22/index.m3u8?proxy=true
-民视第一4Gtv,http://220.135.64.124:5050/4gtv-4gtv003/index.m3u8?proxy=true
 民视第一4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv003/index.m3u8?proxy=true
 民视旅游4Gtv,http://220.135.64.124:5050/li-litv-ftv07/index.m3u8?proxy=true
 民视旅游4Gtv,http://220.135.64.124:5050/litv-ftv07/index.m3u8?proxy=true
@@ -156,6 +158,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立综合4Gtv,http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
 数位电影4Gtv,http://220.135.64.124:5050/4gtv-4gtv011/index.m3u8?proxy=true
 台视财经4Gtv,http://220.135.64.124:5050/4gtv-4gtv056/index.m3u8?proxy=true
+台视闽南4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
 台视新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
 影迷纪实4Gtv,http://220.135.64.124:5050/li-litv-ftv15/index.m3u8?proxy=true
 影迷纪实4Gtv,http://220.135.64.124:5050/litv-ftv15/index.m3u8?proxy=true
@@ -190,5 +193,6 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 
 港澳I组,#genre#
+寰宇新闻台,http://www.kaniptv.cn/ua3.php?etoken=RbbWqhCU4ljrR%2BXmuBWu7Fvh2QTDsGOek7jP3uIQKfgKByGOxbIcrI2b77PQBkgRa2v8xN4XMCRYGcv8pQLU3JDhMKWrf2kW5D98Icya5NdUjzcK4piEvwpRJNDKUihAAEKpm8%2F0bFy%2FMje6RUpo%2B6q9VX5JEzrPXlsklguKfiG0Wqugfndn5Qr3ffV1zp9pkvfwQp33e1JeElDURSdmc85M1A%2B6w%2FZhdtiy0%2FURLQAS6TdOQlBPET8boWXq7Z0uMunW5gCGJlTN6TLtY2D0isLpo3a68nSbGaAQO6mLL5qHQQOaMp%2BHS1JZ6eyRtYKF9wGnglbYkxmBwh6M3gX27A%3D%3D
 中天新闻台,http://www.kaniptv.cn/ua3.php?etoken=m1jBeZ6pPQWBnKTP4dIXI7Nqwc5dfmbdTt7q9eR%2BVM1N1vrRnukJbMwV5gyySRTGX7l473fyDLAmZruf53ok%2B0ycz3CBk87G0XDcC4TH1ROAs3UVFxCOP2F2GQUh0u5GMytVnvmeADQqZg4e5EQW32CUaKAXNtHCKUq8Jba52fcKI%2F5rG%2BuWIn%2BrHACdELABB7IIpDLliZegojaVp%2BBk0zzCbtX%2BKLaeH3cWrYH8Nv%2Fs1rnm%2F%2BDv%2FwF5%2B3AXEQJGmaIS8XMZFvaeT0AzRl2xgQTFeqbsQE2kZbCM7wXHLpg1TfYXRaajBsFZFNaAQFy34ISU9wqf4L%2Fe2TDnf6%2FoUg%3D%3D
 
