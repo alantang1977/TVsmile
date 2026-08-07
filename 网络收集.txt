@@ -1,29 +1,33 @@
-2026/08/05 10:48更新,#genre#
+2026/08/07 10:50更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 AMC电影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
+NiceTV靖天欢乐台,http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1782639885837
 TVBS欢乐台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
+TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
 TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
+大爱电视,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
 东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 东森新闻台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
+公视戏剧,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
 华视,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1782639885837
 华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
 寰宇新闻台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 寰宇新闻台湾台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
 经典电影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1782639885837
 靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1782639885837
-靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
-靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
+靖天育乐台,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
 靖天资讯台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
-靖天综合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
+靖洋卡通NiceBingo,http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1782639885837
 靖洋戏剧台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
 民视,http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1782639885837
 民视第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
 民视台湾台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
 民视新闻台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 民视综艺台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
-三立新闻iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
+三立综合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
+中视,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
 中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 中天新闻台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 猪哥亮歌厅秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
@@ -32,7 +36,6 @@ TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 AMC电影台,https://cdn12.178.indevs.in/163189/amc
 采昌影剧台,https://cdn12.178.indevs.in/163189/ccyj
 公视戏剧,https://cdn12.178.indevs.in/163189/gsxj
-经典电影台,https://cdn12.178.indevs.in/163189/jddyt
 靖天电影台,https://cdn12.178.indevs.in/163189/jtdy
 靖天戏剧台,https://cdn12.178.indevs.in/163189/jtxj
 靖天映画,https://cdn12.178.indevs.in/163189/jtyh
@@ -91,7 +94,6 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 华视新闻台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
 民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
-三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立新闻台,https://www.youtube.com/watch?v=FoBfXvlOR6I
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
@@ -110,6 +112,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 剧情片-山影迷踪,https://hd.ijycnd.com/play/xe79VzBb/index.m3u8
 剧情片-无线信号,https://hd.ijycnd.com/play/vbm4rnaY/index.m3u8
 剧情片-小事大爱,https://hd.ijycnd.com/play/negL1lZa/index.m3u8
+剧情片-小阴谋大爱情,https://hd.ijycnd.com/play/6dBJwYd7/index.m3u8
 喜剧片-爱情无线牵（粤语版）,https://hd.ijycnd.com/play/Xe0O3NLd/index.m3u8
 喜剧片-无线电时代,https://hd.ijycnd.com/play/Le3Qy7xb/index.m3u8
 喜剧片-戏剧训练营,https://hd.ijycnd.com/play/6dBj2mkd/index.m3u8
@@ -144,6 +147,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 靖天欢乐4Gtv,http://nmk.ioapk.com:5050/4gtv-4gtv054/index.m3u8?proxy=true
 靖天欢乐4Gtv,http://nmk.ioapk.com:5050/li-4gtv-4gtv054/index.m3u8?proxy=true
 靖天卡通4Gtv,http://nmk.ioapk.com:5050/li-4gtv-4gtv044/index.m3u8?proxy=true
+靖天日本4Gtv,http://nmk.ioapk.com:5050/li-4gtv-4gtv047/index.m3u8?proxy=true
 靖天戏剧4Gtv,http://nmk.ioapk.com:5050/4gtv-4gtv058/index.m3u8?proxy=true
 靖天戏剧4Gtv,http://nmk.ioapk.com:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
 靖天映画4Gtv,http://nmk.ioapk.com:5050/4gtv-4gtv055/index.m3u8?proxy=true
@@ -188,6 +192,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中视经典4Gtv,http://nmk.ioapk.com:5050/4gtv-4gtv080/index.m3u8?proxy=true
 中视经典4Gtv,http://nmk.ioapk.com:5050/li-4gtv-4gtv080/index.m3u8?proxy=true
 中视闽南4Gtv,http://nmk.ioapk.com:5050/li-4gtv-4gtv040/index.m3u8?proxy=true
+中视新闻4Gtv,http://nmk.ioapk.com:5050/4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻4Gtv,http://nmk.ioapk.com:5050/li-4gtv-4gtv074/index.m3u8?proxy=true
 中天新闻4Gtv,http://nmk.ioapk.com:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://nmk.ioapk.com:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
@@ -206,7 +211,6 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
 民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
 民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
-民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
 台视,http://74.91.26.218:82/live/ttv.m3u8
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
