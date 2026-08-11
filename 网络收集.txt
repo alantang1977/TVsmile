@@ -1,13 +1,13 @@
-2026/08/09 09:59更新,#genre#
+2026/08/11 10:00更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 AMC电影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
 KLT-靖天台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1782639885837
-NiceTV靖天欢乐台,http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1782639885837
 TVBS欢乐台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
 TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
 TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
+大爱电视,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
 东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 东森新闻台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 公视戏剧,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
@@ -30,9 +30,7 @@ TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 民视台湾台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
 民视新闻台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 民视综艺台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
-人间卫视,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
 三立新闻iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
-三立综合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
 中视,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
 中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 中天新闻台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
@@ -113,10 +111,8 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 爱情片-戏剧性的一夜,https://hd.ijycnd.com/play/6dBBrrWd/index.m3u8
 动画片-蝙蝠侠：红影迷踪,https://hd.ijycnd.com/play/zbqxpl0a/index.m3u8
 动作片-中天,https://hd.ijycnd.com/play/Le3KwAe6/index.m3u8
-剧情片-大爱无言,https://hd.ijycnd.com/play/7axAnlby/index.m3u8
 剧情片-大唐狄公案之狐影迷案,https://hd.ijycnd.com/play/QbYoQKez/index.m3u8
 剧情片-龙华之少年归,https://hd.ijycnd.com/play/xe79zQGb/index.m3u8
-剧情片-梦与无线电,https://hd.ijycnd.com/play/zbqqMA7b/index.m3u8
 剧情片-山影迷踪,https://hd.ijycnd.com/play/xe79VzBb/index.m3u8
 剧情片-无线信号,https://hd.ijycnd.com/play/vbm4rnaY/index.m3u8
 剧情片-小事大爱,https://hd.ijycnd.com/play/negL1lZa/index.m3u8
@@ -172,6 +168,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 龙华经典4Gtv,http://nmk.ioapk.com:5050/li-litv-longturn21/index.m3u8?proxy=true
 龙华卡通4Gtv,http://nmk.ioapk.com:5050/li-litv-longturn01/index.m3u8?proxy=true
 龙华偶像4Gtv,http://nmk.ioapk.com:5050/li-litv-longturn12/index.m3u8?proxy=true
+龙华日韩4Gtv,http://nmk.ioapk.com:5050/li-litv-longturn11/index.m3u8?proxy=true
 龙华戏剧4Gtv,http://nmk.ioapk.com:5050/li-litv-longturn18/index.m3u8?proxy=true
 龙华洋片4Gtv,http://nmk.ioapk.com:5050/li-litv-longturn02/index.m3u8?proxy=true
 闽南戏剧4Gtv,http://nmk.ioapk.com:5050/li-litv-longturn22/index.m3u8?proxy=true
