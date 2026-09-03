@@ -1,28 +1,20 @@
-2026/09/01 12:16更新,#genre#
+2026/09/03 11:39更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
-AMC电影台,https://cdn12.178.indevs.in/163189/amc
-采昌影剧台,https://cdn12.178.indevs.in/163189/ccyj
-公视戏剧,https://cdn12.178.indevs.in/163189/gsxj
-经典电影台,https://cdn12.178.indevs.in/163189/jddyt
-靖天电影台,https://cdn12.178.indevs.in/163189/jtdy
-靖天戏剧台,https://cdn12.178.indevs.in/163189/jtxj
-靖天映画,https://cdn12.178.indevs.in/163189/jtyh
-靖洋戏剧台,https://cdn12.178.indevs.in/163189/jyxj
-民视影剧台,https://cdn12.178.indevs.in/163189/msyj
-影迷数位电影台,https://cdn12.178.indevs.in/163189/ymswdyt
-
-港澳B组,#genre#
+AMC电影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
 KLT-靖天台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1782639885837
 NiceTV靖天欢乐台,http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1782639885837
 TVBS欢乐台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
 TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
+TVBS台剧台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
+TVBS综艺台,http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1782639885837
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 八大精彩台,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1782639885837
 八大综艺台,http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1782639885837
 采昌影剧台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1782639885837
 大爱电视,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
+大爱二台,http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1782639885837
 东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 东森新闻台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 公视戏剧,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
@@ -54,6 +46,18 @@ TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 中天新闻台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 猪哥亮歌厅秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
+
+港澳B组,#genre#
+AMC电影台,https://cdn12.178.indevs.in/163189/amc
+采昌影剧台,https://cdn12.178.indevs.in/163189/ccyj
+公视戏剧,https://cdn12.178.indevs.in/163189/gsxj
+经典电影台,https://cdn12.178.indevs.in/163189/jddyt
+靖天电影台,https://cdn12.178.indevs.in/163189/jtdy
+靖天戏剧台,https://cdn12.178.indevs.in/163189/jtxj
+靖天映画,https://cdn12.178.indevs.in/163189/jtyh
+靖洋戏剧台,https://cdn12.178.indevs.in/163189/jyxj
+民视影剧台,https://cdn12.178.indevs.in/163189/msyj
+影迷数位电影台,https://cdn12.178.indevs.in/163189/ymswdyt
 
 港澳C组,#genre#
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
@@ -112,11 +116,23 @@ TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 
 港澳H组,#genre#
-TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
-黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
-黄金华剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
-黄金华剧台粤,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
-美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
+TVBPlus,http://74.91.26.218:82/live/j2.m3u8
+公视,http://74.91.26.218:82/live/pts.m3u8
+公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
+华视,http://74.91.26.218:82/live/cts.m3u8
+华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
+华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
+民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
+民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
+民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
+台视,http://74.91.26.218:82/live/ttv.m3u8
+台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
+无线新闻,http://74.91.26.218:82/live/inews.m3u8
+中视,http://74.91.26.218:82/live/ctv.m3u8
+中视菁采台,http://74.91.26.218:82/live/ctvjc.m3u8
+中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 
 港澳I组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -148,13 +164,4 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 喜剧片-爱情无线牵（粤语版）,https://hd.ijycnd.com/play/Xe0O3NLd/index.m3u8
 喜剧片-无线电时代,https://hd.ijycnd.com/play/Le3Qy7xb/index.m3u8
 喜剧片-戏剧训练营,https://hd.ijycnd.com/play/6dBj2mkd/index.m3u8
-
-港澳K组,#genre#
-成式同学会NTR-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/06/fe501850/index.m3u8
-给我看私处我就原谅你-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/03/31/9ea95262/index.m3u8
-喝酒后成为接吻恶魔-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/09/16/a7633960/index.m3u8
-老婆被粉丝成便器-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/07/25/c1361322/index.m3u8
-设定脚本一切都没有-七沢美亚,https://t33.cdn2020.com/video/m3u8/2024/10/09/698c671d/index.m3u8
-兔年要看兔郎-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/04/ef3a6cad/index.m3u8
-小恶魔的密著-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/04/8641f821/index.m3u8
 
