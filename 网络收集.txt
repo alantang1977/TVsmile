@@ -1,4 +1,4 @@
-2026/09/15 12:05更新,#genre#
+2026/09/17 12:09更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
@@ -65,13 +65,6 @@ TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 
 港澳F组,#genre#
-TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
-黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
-黄金华剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
-黄金华剧台粤,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
-美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
-
-港澳G组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
@@ -85,4 +78,13 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中视新闻台,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+
+港澳G组,#genre#
+成式同学会NTR-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/06/fe501850/index.m3u8
+给我看私处我就原谅你-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/03/31/9ea95262/index.m3u8
+喝酒后成为接吻恶魔-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/09/16/a7633960/index.m3u8
+老婆被粉丝成便器-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/07/25/c1361322/index.m3u8
+设定脚本一切都没有-七沢美亚,https://t33.cdn2020.com/video/m3u8/2024/10/09/698c671d/index.m3u8
+兔年要看兔郎-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/04/ef3a6cad/index.m3u8
+小恶魔的密著-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/04/8641f821/index.m3u8
 
